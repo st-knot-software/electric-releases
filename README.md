@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./docs/prod/assets/app-icon-with-background-shadow_512x512.png" alt="Electrifying LogViewer" width="256">
+    <img src="./docs/assets/app-icon-with-background-shadow_512x512.png" alt="Electrifying LogViewer" width="256">
     <br>
     Electrifying LogViewer
 </h1>
@@ -29,8 +29,8 @@
 ## Documentation
 
 - Guides
-  - [Parsers](docs/prod/Parsers.md)
-  - [Filters](docs/prod/Filters.md)
-  - [Tailing](docs/prod/Tailing.md)
+  - [Parsers](docs/Parsers.md)
+  - [Filters](docs/Filters.md)
+  - [Tailing](docs/Tailing.md)
 
-![img](docs/prod/assets/scroll-list.gif)
+![img](docs/assets/scroll-list.gif)
